@@ -8,8 +8,10 @@ I’m Zhanpeng Hu(胡展鹏), an undergraduate student at SCU.
 ### 🎓 Experience:
  - Bachelor, Computer Science & Technology, Sichuan University(2021 ~ )
 ### 🔭 Research Interests:
- - Mobile Augmented Reality 
+ - 3D Vision
+ - Augmented Reality 
  - Simultaneous localization and mapping(SLAM) in Augmented Reality
+ - CG
  - Unity3D development
 ### 🛠️ Programming skills:
  - ![C](https://img.shields.io/badge/-C-000?&logo=C)
