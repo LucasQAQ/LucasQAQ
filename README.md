@@ -6,11 +6,12 @@
 I’m Zhanpeng Hu(胡展鹏), an undergraduate student at SCU. 
 
 ### 🎓 Experience:
- - Bachelor, Computer Science & Technology, Sichuan University(2021 ~ )
+ - Bachelor, Computer Science & Technology, Sichuan University(2021 ~ 2025)
+ - Master, Computer Science & Technology, Nanjing University(2025 ~ )
 ### 🔭 Research Interests:
  - 3D Vision
- - Augmented Reality 
- - Simultaneous localization and mapping(SLAM) in Augmented Reality
+ - Inverse rendering
+ - Simultaneous localization and mapping(SLAM)
  - CG
  - Unity3D development
 ### 🛠️ Programming skills:
