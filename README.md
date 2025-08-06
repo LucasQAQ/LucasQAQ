@@ -3,7 +3,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/LucasQAQ?logo=Github) ![GitHub User's stars](https://img.shields.io/github/stars/LucasQAQ?affiliations=OWNER%2CCOLLABORATOR&label=all%20stars&logo=Github)
 
-I’m Zhanpeng Hu(胡展鹏), an undergraduate student at SCU. 
+I'm Hu Zhanpeng(胡展鹏). I graduated with a bachelor's degree from Sichuan University and am currently pursuing a master's degree at Nanjing University. 
 
 ### 🎓 Experience:
  - Bachelor, Computer Science & Technology, Sichuan University(2021 ~ 2025)
